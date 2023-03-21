@@ -1,0 +1,15 @@
+C:\Users\tagan\OneDrive\Рабочий стол\workshop-main\exam\Example_0002\bin\Debug\net7.0\Example_0002.exe
+C:\Users\tagan\OneDrive\Рабочий стол\workshop-main\exam\Example_0002\bin\Debug\net7.0\Example_0002.deps.json
+C:\Users\tagan\OneDrive\Рабочий стол\workshop-main\exam\Example_0002\bin\Debug\net7.0\Example_0002.runtimeconfig.json
+C:\Users\tagan\OneDrive\Рабочий стол\workshop-main\exam\Example_0002\bin\Debug\net7.0\Example_0002.dll
+C:\Users\tagan\OneDrive\Рабочий стол\workshop-main\exam\Example_0002\bin\Debug\net7.0\Example_0002.pdb
+C:\Users\tagan\OneDrive\Рабочий стол\workshop-main\exam\Example_0002\obj\Debug\net7.0\Example_0002.csproj.AssemblyReference.cache
+C:\Users\tagan\OneDrive\Рабочий стол\workshop-main\exam\Example_0002\obj\Debug\net7.0\Example_0002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tagan\OneDrive\Рабочий стол\workshop-main\exam\Example_0002\obj\Debug\net7.0\Example_0002.AssemblyInfoInputs.cache
+C:\Users\tagan\OneDrive\Рабочий стол\workshop-main\exam\Example_0002\obj\Debug\net7.0\Example_0002.AssemblyInfo.cs
+C:\Users\tagan\OneDrive\Рабочий стол\workshop-main\exam\Example_0002\obj\Debug\net7.0\Example_0002.csproj.CoreCompileInputs.cache
+C:\Users\tagan\OneDrive\Рабочий стол\workshop-main\exam\Example_0002\obj\Debug\net7.0\Example_0002.dll
+C:\Users\tagan\OneDrive\Рабочий стол\workshop-main\exam\Example_0002\obj\Debug\net7.0\refint\Example_0002.dll
+C:\Users\tagan\OneDrive\Рабочий стол\workshop-main\exam\Example_0002\obj\Debug\net7.0\Example_0002.pdb
+C:\Users\tagan\OneDrive\Рабочий стол\workshop-main\exam\Example_0002\obj\Debug\net7.0\Example_0002.genruntimeconfig.cache
+C:\Users\tagan\OneDrive\Рабочий стол\workshop-main\exam\Example_0002\obj\Debug\net7.0\ref\Example_0002.dll
